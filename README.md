@@ -1,2 +1,2 @@
-# my-script-python
+# projeto-calculadora-ebac
 Script em Python
