@@ -10,5 +10,6 @@ O arquivo `.sh` contém a lógica necessária para rodar a calculadora. Para a c
     `chmod +x calculadora.sh`
 * **Execução:** Após dar a permissão, o arquivo pode ser rodado diretamente com:
     `./calculadora.sh`
+  
 *Observação: > Conforme solicitado, configurei as permissões do arquivo para que o proprietário tenha apenas leitura e escrita (chmod 644). Por não possuir permissão de execução direta, o script deve ser chamado através do interpretador Bash com o comando:
 bash calculadora.sh*
