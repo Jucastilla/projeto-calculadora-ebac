@@ -1,7 +1,5 @@
 # projeto-calculadora-ebac
-Repositório contendo script de calculadora em Python e script de automação em Shell para ambiente Linux.
-
-Este projeto consiste em uma calculadora funcional desenvolvida em Python e um script de automação em Shell, criados no ambiente Linux (WSL/Ubuntu) utilizando o editor Nano.
+Este projeto consiste em uma calculadora funcional desenvolvida em Python e em Shell, criada no Colab e no ambiente Linux (WSL/Ubuntu) utilizando o editor Nano.
 
 ## 1. O Código Python (`calculadora.py`)
 O script Python foi desenvolvido para realizar operações matemáticas básicas.
